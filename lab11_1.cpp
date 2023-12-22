@@ -13,6 +13,6 @@ int main()
     cin.get();
     cin.get();
     srand( time( 0 ) );
-    a=rand()%8;
+    a=rand()%9;
     cout<<"You will get "<<x[a]<<" in this 261102.\n";
 }
